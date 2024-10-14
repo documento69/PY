@@ -11,6 +11,10 @@ def world_facts():
         "The Great Wall of China is over 13,000 miles long."
         "added1"
         "added2"
+        "added3"
+        "added4"
+        "added5"
+        "added6"
     ]
     
     print("Here are some interesting facts about the world:")
