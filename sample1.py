@@ -9,6 +9,8 @@ def world_facts():
         "The world's population is over 8 billion people.",
         "The Amazon Rainforest produces 20% of the world's oxygen.",
         "The Great Wall of China is over 13,000 miles long."
+        "added1"
+        "added2"
     ]
     
     print("Here are some interesting facts about the world:")
